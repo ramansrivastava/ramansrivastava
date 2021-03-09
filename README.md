@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramansrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="ramansrivastava" /> </p>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/789995/screenshots/6121446/comp-2.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ramansrivastav_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ramansrivastav_" height="30" width="40" /></a>
