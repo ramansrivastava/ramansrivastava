@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramansrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="ramansrivastava" /> </p>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/eeb2471fc02ca2b42994f20b10fb4518/tenor.gif">
+<p align="left"> <img src="https://image.freepik.com/free-vector/cyberpunk-futuristic-poster-retro-futuristic-poster-template-electronic-music-layout_122058-201.jpg" alt="ramansrivastava" /> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a1/e8/61/a1e8617d65e18b25e838b5f2eaf436c9.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ramansrivastav_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ramansrivastav_" height="30" width="40" /></a>
