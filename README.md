@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ramansrivastava</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramansrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="ramansrivastava" /> </p>
 <p align="left"> <img src="https://image.freepik.com/vecteurs-libre/entropy-glitch-vector-couleurs-vives_158941-5.jpg" alt="ramansrivastava" /> </p>
