@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ramansrivastava</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramansrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="ramansrivastava" /> </p>
-<p align="left"> <img src="https://image.freepik.com/vecteurs-libre/entropy-glitch-vector-couleurs-vives_158941-5.jpg" alt="ramansrivastava" /> </p>
 <img align="right" alt="coding" width="300" src="https://media1.tenor.com/images/81f38a6761045e678b3d76e2d93a6f2d/tenor.gif?itemid=16670708">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
