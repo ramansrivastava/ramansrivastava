@@ -6,7 +6,7 @@
 
 [![LinkedIn: jyotirmaan-srivastava](https://img.shields.io/badge/-Jyotirmaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotirmaan-srivastava-6335b722b)](https://www.linkedin.com/in/jyotirmaan-srivastava-6335b722b)  
 [![GitHub Follow](https://img.shields.io/github/followers/ramansrivastava?label=follow&style=social)](https://github.com/ramansrivastava)  
-[🌐 Portfolio Website](https://ramansrivastava.github.io/ramansrivastav/)
+[🌐 Portfolio Website](https://jyotirmaan-portfolio.vercel.app/)
 
 ---
 
